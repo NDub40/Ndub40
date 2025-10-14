@@ -5,7 +5,7 @@
 - 💞️ -I use Arch btw.
 - 💞️ -Neovim (my editor of choice)
 -  
--    -Rooting Android operating systems, Flashing custom ROMS on Android via CLI (Fastboot and ADB) (where my love for Linux started)
+-    -Rooting Android operating systems, Flashing custom ROMS on via CLI (Fastboot and ADB) is where my love for Linux started.
 -    
 - 📫 How to reach me...
 
