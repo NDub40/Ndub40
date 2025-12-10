@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natasha 
 - 👀  
 - 🌱 
-- 🛫 Currently traveling entire USA for unknown amount of time
+- 🛫 Currently traveling entire USA for unknown amount of time ✌️
 -
 - 💞️ - i3wm, Sway, and Hyprland
 - 💞️ - I use Arch btw.
@@ -9,7 +9,7 @@
 -  
 - 💞️ - Rooting Android operating systems back when we needed to root just to have USB tethering, Flashing custom ROMS via CLI (Fastboot and ADB) is where my love for Linux started.
 -    
-- 📫 How to reach me...
+- 📫 How to reach me...here.
 
 
 <!---
