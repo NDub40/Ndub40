@@ -9,7 +9,7 @@
 - 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
 -
 - 💞️ - i3WM --> SwayWM
-- 💞️ - Arch Linux/Debian stable/Fedora 🐸
+- 💞️ - Arch Linux(RTFM years)/Debian stable/Fedora 🐸
 - 💞️ - Neovim
 -  
 - 💞️ - My love for linux started from rooting Android operating systems back when we needed root just to have USB tethering, flashing custom ROMS via CLI (Fastboot and ADB). I probably just dated myself...
