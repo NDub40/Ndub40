@@ -7,25 +7,22 @@
 -
 - also
 -
-## 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
+ 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
 -
+# I use tools as instruments, not identities. 😈
 -
-## I use tools as instruments, not identities. 😈
+# If a tool needs constant attention, it’s usually compensating for bad design. 😈
 -
--
-## If a tool needs constant attention, it’s usually compensating for bad design. 😈
--
--
-## 💞️ - i3WM --> SwayWM
+# 💞️ - i3WM --> SwayWM
 -  
-## 💞️ I care about:
+### 💞️ I care about:
 - Linux internals
 - Reliability over novelty
 - Clean tooling
 - Long-lived systems
 - Minimalism with intent
 
-- Most of my work lives at the intersection of:
+### Most of my work lives at the intersection of:
 - Infrastructure & automation
 - Containers (OCI, Docker-compatible runtimes, Podman)
 - Configuration management
@@ -42,15 +39,12 @@
 - **VCS:** git
 - **Monitoring concepts:** metrics, logs, tracing (WIP, by design)
 -
--
 ### Current focus
 - SRE fundamentals (monitoring, failure domains, incident thinking)
 - Linux-first workflows (Fedora, Debian, Arch)
 - Containers without ceremony (Podman, Distrobox)
 - Text-based tooling (Neovim, tmux, git)
 - 
--
--
 ### Principle
 - If it’s not observable, it’s not reliable  
 - Simplicity scales better than cleverness  
