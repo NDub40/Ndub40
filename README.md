@@ -1,18 +1,18 @@
 # 👋 Hi, I’m Natasha 😘
-- 
+ 
 - 🍃 🌈 🤓
--
-- Senior-minded Linux engineer with an SRE lean.
-- I build systems that are boring on purpose: observable, reproducible, and hard to break.
--
-- Currently traveling the USA ✌️ 🛫
--
+
+ Senior-minded Linux engineer with an SRE lean.
+ I build systems that are boring on purpose: observable, reproducible, and hard to break.
+
+ Currently traveling the USA ✌️ 🛫
+
 ### I use tools as instruments, not identities. 😈
--
+
 ### If a tool needs constant attention, it’s usually compensating for bad design. 😈
--
+
 ### 💞️ - i3WM --> SwayWM
--  
+  
 ### 💞️ I care about:
 - Linux internals
 - Reliability over novelty
@@ -25,8 +25,7 @@
 - Containers (OCI, Docker-compatible runtimes, Podman)
 - Configuration management
 - Developer ergonomics
--
--
+
 ### Tooling
 - **OS:** Fedora (host), Debian / Arch (containers)
 - **Containers:** Podman, Docker-compatible workflows, Distrobox
@@ -36,13 +35,13 @@
 - **Shell:** bash / zsh
 - **VCS:** git
 - **Monitoring concepts:** metrics, logs, tracing (WIP, by design)
--
+
 ### Current focus
 - SRE fundamentals (monitoring, failure domains, incident thinking)
 - Linux-first workflows (Fedora, Debian, Arch)
 - Containers without ceremony (Podman, Distrobox)
 - Text-based tooling (Neovim, tmux, git)
-- 
+ 
 ### Principle
 - If it’s not observable, it’s not reliable  
 - Simplicity scales better than cleverness  
@@ -52,8 +51,8 @@
 
 I prefer tools that disappear once they’re set up.
 
--    
-- 📫 How to reach me... Instagram link in profile.
+    
+### 📫 How to reach me... Instagram link in profile.
 
 
 <!---
