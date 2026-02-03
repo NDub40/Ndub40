@@ -5,15 +5,13 @@
 - Senior-minded Linux engineer with an SRE lean.
 - I build systems that are boring on purpose: observable, reproducible, and hard to break.
 -
-- also
+- Currently traveling the USA ✌️ 🛫
 -
- 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
+### I use tools as instruments, not identities. 😈
 -
-# I use tools as instruments, not identities. 😈
+### If a tool needs constant attention, it’s usually compensating for bad design. 😈
 -
-# If a tool needs constant attention, it’s usually compensating for bad design. 😈
--
-# 💞️ - i3WM --> SwayWM
+### 💞️ - i3WM --> SwayWM
 -  
 ### 💞️ I care about:
 - Linux internals
