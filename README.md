@@ -2,54 +2,28 @@
  
 - 🍃 🌈 🤓
 
- ### Remote-Friendly **Linux/SRE-leaning DevOps engineer**
- I build systems that are boring on purpose: observable, reproducible, and hard to break.
+### SRE & Linux Enthusiast | Pursuing CompTIA Linux+
 
- Currently traveling the USA ✌️ 🛫
+---
 
-### I use tools as instruments, not identities. 😈
+### 🐧 Current Focus: CompTIA Linux+ 
+I am currently documenting my path to the XK0-006 certification. I use this space to treat my study labs as production infrastructure.
 
-### If a tool needs constant attention, it’s usually compensating for bad design. 😈
+**What I'm practicing right now:**
+*   **System Admin:** Permissions (ACLs), storage management (LVM/Partitioning), and kernel modules.
+*   **Automation:** Bash scripting and basic task automation to reduce manual toil.
+*   **Security:** Hardening systems via SSH configurations, firewalls, and SELinux.
+*   **Containers:** Exploring OCI-compliant runtimes like Podman and Distrobox.
 
-### 💞️ - i3WM --> SwayWM
-  
-### 💞️ I care about:
-- Linux internals
-- Reliability over novelty
-- Clean tooling
-- Long-lived systems
-- Minimalism with intent
+### 🧰 Tools
+- **OS:** Fedora (Host) | Debian & Arch (Containers)
+- **Editor:** Neovim (Minimal & Intentional)
+- **Tools:** Bash, Git, Ansible, Terraform
+- **Shell:** Zsh + tmux
 
-### Most of my work lives at the intersection of:
-- Infrastructure & automation
-- Containers (OCI, Docker-compatible runtimes, Podman)
-- Configuration management
-- Developer ergonomics
+Simplicity scales better than cleverness.
 
-### Tooling
-- **OS:** Fedora (host), Debian / Arch (containers)
-- **Containers:** Podman, Docker-compatible workflows, Distrobox
-- **Automation:** Ansible, Bash, CI/CD
-- **Infra:** Terraform 
-- **Editor:** Neovim (minimal, intentional)
-- **Shell:** bash / zsh
-- **VCS:** git
-- **Monitoring concepts:** metrics, logs, tracing (WIP, by design)
-
-### Current focus
-- SRE fundamentals (monitoring, failure domains, incident thinking)
-- Linux-first workflows (Fedora, Debian, Arch)
-- Containers without ceremony (Podman, Distrobox)
-- Text-based tooling (Neovim, tmux, git)
- 
-### Principle
-- If it’s not observable, it’s not reliable  
-- Simplicity scales better than cleverness  
-- Documentation is part of the system  
-- “Works on my machine” is a bug  
-
-
-I prefer tools that disappear once they’re set up.
+Documentation is a feature, not an afterthought (RTFM).
 
     
 ### 📫 How to reach me... Instagram link in profile.
