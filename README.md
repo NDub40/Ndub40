@@ -23,7 +23,7 @@ Hardening systems via SSH configurations, firewalls, and SELinux.
 *   **Containers:** Exploring OCI-compliant runtimes like Podman and Distrobox.
 
 ### 🧰 Tools
-- **OS:** Fedora 
+- **OS:** Fedora Sway Atomic 
 - **Editor:** Neovim
 - **Tools:** Bash, Git, Ansible, Terraform
 - **Shell:** Zsh + tmux 
